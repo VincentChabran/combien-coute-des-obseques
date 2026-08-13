@@ -43,6 +43,26 @@ Ce n'est pas une raison d'écarter le chiffre — les données de gestion resten
 raison de le lire en connaissance de cause, exactement comme pour le chiffre du coût d'un mariage
 déjà documenté sur `combien-coute-un-mariage` (Mariages.net, même type de biais).
 
+## Ce qui est réellement pris en charge : le capital décès
+
+Un chiffre officiel, sans conflit d'intérêt (organisme d'État), pour situer le reste-à-charge réel :
+la Sécurité sociale verse un **capital décès forfaitaire de 4 009 €** (montant en vigueur depuis
+le 1er avril 2026) aux ayants droit d'un défunt qui, dans les 3 mois avant son décès, était salarié,
+indemnisé par France Travail, titulaire d'une pension d'invalidité, ou bénéficiaire d'une rente
+AT/MP avec au moins 66,66 % d'incapacité. Il n'est **pas versé automatiquement** : une demande doit
+être déposée, avec un délai de priorité d'un mois pour les bénéficiaires prioritaires.
+
+Source primaire : https://www.ameli.fr/entreprise/vos-salaries/montants-reference/capital-deces
+(lu le 2026-08-13).
+
+Rapproché du coût moyen mesuré plus haut, ça donne un ordre de grandeur du reste-à-charge quand le
+capital décès s'applique : **4 730 − 4 009 = 721 €** — mais ce n'est qu'un rapprochement arithmétique
+entre deux chiffres datés et sourcés différemment (étude privée 2023 vs barème officiel 2026), pas
+une moyenne recalculée, et il ne s'applique qu'aux défunts remplissant les conditions d'éligibilité
+ci-dessus. Les travailleurs indépendants cotisants relèvent d'un montant différent (9 612 € en 2026,
+20 % du plafond annuel de la Sécurité sociale) — non repris ici faute de decomposition de coût
+équivalente pour ce statut.
+
 ## Le visuel
 
 ![Pin](pin.png)
