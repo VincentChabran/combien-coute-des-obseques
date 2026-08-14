@@ -72,3 +72,20 @@ ci-dessus. Les travailleurs indépendants cotisants relèvent d'un montant diff�
 Série « On a compté ». Autres sujets déjà publiés : coût d'un animal de compagnie, d'un mariage,
 d'un déménagement, de la rentrée scolaire, des vacances d'été, de Noël, d'Halloween — liste et
 liens dans [le hub](https://github.com/VincentChabran/VincentChabran).
+
+## La série « On a compté »
+
+Toute la série, avec un chiffre-titre par sujet : [github.com/VincentChabran](https://github.com/VincentChabran)
+
+Ce dépôt fait partie d'une série qui chiffre et source ce que les autres se contentent d'affirmer, un sujet à la fois :
+
+- [783 €/an pour un chien, 571 €/an pour un chat](https://github.com/VincentChabran/combien-coute-un-chien-un-chat)
+- [19 293 €](https://github.com/VincentChabran/combien-coute-un-mariage)
+- [environ 1 239,56 €](https://github.com/VincentChabran/combien-coute-un-demenagement)
+- [488 €](https://github.com/VincentChabran/combien-coute-une-rentree-scolaire)
+- [1 748 €](https://github.com/VincentChabran/combien-coutent-des-vacances-ete)
+- [491 €](https://github.com/VincentChabran/combien-coute-noel)
+- [490 €/mois](https://github.com/VincentChabran/combien-coute-un-bebe)
+- [154 € (chez les couples qui la fêtent)](https://github.com/VincentChabran/combien-coute-la-saint-valentin)
+- [77 € vs 76 €](https://github.com/VincentChabran/combien-coute-la-fete-des-meres-et-des-peres)
+- [85 € (étude 2024)](https://github.com/VincentChabran/combien-coute-halloween)
