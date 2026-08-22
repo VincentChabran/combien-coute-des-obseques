@@ -1,5 +1,7 @@
 # Combien coûtent des obsèques en France ?
 
+![Visites de cette page](https://visitor-badge.laobi.icu/badge?page_id=vincentchabran.combien-coute-des-obseques.pages)
+
 **4 730 €** : c'est le coût moyen des obsèques organisées en France en 2023 — plus de trois fois
 la pension de retraite moyenne (1 400 €).
 
